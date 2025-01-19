@@ -23,6 +23,72 @@
       "logo_URIs": {
         "svg": "https://raw.githubusercontent.com/anoma/namada-chain-registry/main/namada/images/namada.svg"
       }
+    },
+    {
+      "description": "Test token 1",
+      "denom_units": [
+        {
+          "denom": "uatom",
+          "exponent": 0
+        },
+        {
+          "denom": "atom",
+          "exponent": 6
+        }
+      ],
+      "type_asset": "sdk.coin",
+      "base": "uatom",
+      "name": "Atom",
+      "display": "atom",
+      "symbol": "ATOM",
+      "address": "tnam1qy440ynh9fwrx8aewjvvmu38zxqgukgc259fzp6h",
+      "logo_URIs": {
+        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.svg"
+      }
+    },
+    {
+      "description": "The native token of Namada.",
+      "denom_units": [
+        {
+          "denom": "unam",
+          "exponent": 0
+        },
+        {
+          "denom": "nam",
+          "exponent": 6
+        }
+      ],
+      "type_asset": "sdk.coin",
+      "base": "unam",
+      "name": "Namada",
+      "display": "nam",
+      "symbol": "NAM",
+      "address": "tnam1p5nnjnasjtfwen2kzg78fumwfs0eycqpecuc2jwz",
+      "logo_URIs": {
+        "svg": "https://raw.githubusercontent.com/anoma/namada-chain-registry/main/namada/images/namada.svg"
+      }
+    },
+    {
+      "description": "Test token 2",
+      "denom_units": [
+        {
+          "denom": "uatom",
+          "exponent": 0
+        },
+        {
+          "denom": "atom",
+          "exponent": 6
+        }
+      ],
+      "type_asset": "sdk.coin",
+      "base": "uatom",
+      "name": "Atom",
+      "display": "atom",
+      "symbol": "ATOM",
+      "address": "tnam1phzvlar06m0rtjjv7n8qx8ny8j8aexayhyq98r7s",
+      "logo_URIs": {
+        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.svg"
+      }
     }
   ]
 }
