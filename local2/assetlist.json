@@ -6,18 +6,18 @@
       "description": "The native staking and governance token for the Cosmos ICS Provider Testnet.",
       "denom_units": [
         {
-          "denom": "uatom",
+          "denom": "uphoton",
           "exponent": 0
         },
         {
-          "denom": "atom",
+          "denom": "photon",
           "exponent": 6
         }
       ],
-      "base": "uatom",
+      "base": "uphoton",
       "name": "Cosmos",
-      "display": "atom",
-      "symbol": "ATOM",
+      "display": "photon",
+      "symbol": "PHTN",
       "logo_URIs": {
         "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.png",
         "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.svg"

@@ -19,7 +19,7 @@
       "name": "Namada",
       "display": "nam",
       "symbol": "NAM",
-      "address": "tnam1qy440ynh9fwrx8aewjvvmu38zxqgukgc259fzp6h",
+      "address": "tnam1q9gr66cvu4hrzm0sd5kmlnjje82gs3xlfg3v6nu7",
       "logo_URIs": {
         "svg": "https://raw.githubusercontent.com/anoma/namada-chain-registry/main/namada/images/namada.svg"
       }
@@ -50,22 +50,88 @@
       "description": "Test token 2",
       "denom_units": [
         {
-          "denom": "uatom",
+          "denom": "uphoton",
           "exponent": 0
         },
         {
-          "denom": "atom",
+          "denom": "photon",
           "exponent": 6
         }
       ],
       "type_asset": "sdk.coin",
-      "base": "uatom",
-      "name": "Atom",
-      "display": "atom",
-      "symbol": "ATOM",
-      "address": "tnam1phzvlar06m0rtjjv7n8qx8ny8j8aexayhyq98r7s",
+      "base": "uphoton",
+      "name": "Photon",
+      "display": "photon",
+      "symbol": "PHTN",
+      "address": "tnam1pk2fa92wqh8fuclqw24azwna424n8zs72uhdksks",
       "logo_URIs": {
-        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.svg"
+        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/galaxy/images/glx.svg"
+      }
+    },
+    {
+      "description": "Test token 3",
+      "denom_units": [
+        {
+          "denom": "uion",
+          "exponent": 0
+        },
+        {
+          "denom": "ion",
+          "exponent": 6
+        }
+      ],
+      "type_asset": "sdk.coin",
+      "base": "uion",
+      "name": "Ion",
+      "display": "ion",
+      "symbol": "ION",
+      "address": "tnam1p4h60d3xjtau5tj374negup4mc796uen6swxd7lc",
+      "logo_URIs": {
+        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/desmos/images/dsm.svg"
+      }
+    },
+    {
+      "description": "Test token 4",
+      "denom_units": [
+        {
+          "denom": "uquark",
+          "exponent": 0
+        },
+        {
+          "denom": "quark",
+          "exponent": 6
+        }
+      ],
+      "type_asset": "sdk.coin",
+      "base": "uquark",
+      "name": "Quark",
+      "display": "quark",
+      "symbol": "QRK",
+      "address": "tnam1p4cz2xup6s22dumgpd3t3gh3gts3f6mep54srxf7",
+      "logo_URIs": {
+        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/crescent/images/cre.svg"
+      }
+    },
+    {
+      "description": "Test token 5",
+      "denom_units": [
+        {
+          "denom": "uneutron",
+          "exponent": 0
+        },
+        {
+          "denom": "neutron",
+          "exponent": 6
+        }
+      ],
+      "type_asset": "sdk.coin",
+      "base": "uneutron",
+      "name": "Neutron",
+      "display": "neutron",
+      "symbol": "NEUT",
+      "address": "tnam1phn8532zw7p39ezhsfua4w98wzaw0aqtq5rkkp8j",
+      "logo_URIs": {
+        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/carbon/images/swth.svg"
       }
     }
   ]

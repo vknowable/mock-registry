@@ -1,9 +1,9 @@
 {
   "$schema": "../../chain.schema.json",
-  "chain_name": "gaia2",
+  "chain_name": "local1",
   "chain_type": "cosmos",
-  "chain_id": "gaia-second",
-  "pretty_name": "Gaia Second",
+  "chain_id": "localnet-1",
+  "pretty_name": "Gaia Local 1",
   "status": "live",
   "network_type": "testnet",
   "bech32_prefix": "cosmos",

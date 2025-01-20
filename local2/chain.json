@@ -1,9 +1,9 @@
 {
   "$schema": "../../chain.schema.json",
-  "chain_name": "gaia1",
+  "chain_name": "local2",
   "chain_type": "cosmos",
-  "chain_id": "gaia-local",
-  "pretty_name": "Gaia Local",
+  "chain_id": "localnet-2",
+  "pretty_name": "Gaia Local 2",
   "status": "live",
   "network_type": "testnet",
   "bech32_prefix": "cosmos",
@@ -16,7 +16,7 @@
   "fees": {
     "fee_tokens": [
       {
-        "denom": "uatom",
+        "denom": "uphoton",
         "fixed_min_gas_price": 0.005,
         "low_gas_price": 0.01,
         "average_gas_price": 0.025,
@@ -27,7 +27,7 @@
   "staking": {
     "staking_tokens": [
       {
-        "denom": "uatom"
+        "denom": "uphoton"
       }
     ]
   },
