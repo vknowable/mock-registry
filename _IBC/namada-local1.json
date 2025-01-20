@@ -6,7 +6,7 @@
     "connection_id": "connection-0"
   },
   "chain_2": {
-    "chain_name": "gaia1",
+    "chain_name": "local1",
     "client_id": "07-tendermint-0",
     "connection_id": "connection-0"
   },
