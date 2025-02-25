@@ -25,7 +25,7 @@
       }
     },
     {
-      "description": "Test token 1",
+      "description": "Cosmos Hub uAtom",
       "denom_units": [
         {
           "denom": "uatom",
@@ -41,97 +41,119 @@
       "name": "Atom",
       "display": "atom",
       "symbol": "ATOM",
-      "address": "tnam1p5nnjnasjtfwen2kzg78fumwfs0eycqpecuc2jwz",
+      "address": "tnam1pkg30gnt4q0zn7j00r6hms4ajrxn6f5ysyyl7w9m",
       "logo_URIs": {
         "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.svg"
       }
     },
     {
-      "description": "Test token 2",
+      "description": "Osmosis uOsmo",
       "denom_units": [
         {
-          "denom": "uphoton",
+          "denom": "uosmo",
           "exponent": 0
         },
         {
-          "denom": "photon",
+          "denom": "osmo",
           "exponent": 6
         }
       ],
       "type_asset": "sdk.coin",
-      "base": "uphoton",
-      "name": "Photon",
-      "display": "photon",
-      "symbol": "PHTN",
-      "address": "tnam1pk2fa92wqh8fuclqw24azwna424n8zs72uhdksks",
+      "base": "uosmo",
+      "name": "Osmo",
+      "display": "osmo",
+      "symbol": "OSMO",
+      "address": "tnam1p5z8ruwyu7ha8urhq2l0dhpk2f5dv3ts7uyf2n75",
       "logo_URIs": {
-        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/galaxy/images/glx.svg"
+        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/refs/heads/master/osmosis/images/osmo.svg"
       }
     },
     {
-      "description": "Test token 3",
+      "description": "Celestia uTia",
       "denom_units": [
         {
-          "denom": "uion",
+          "denom": "utia",
           "exponent": 0
         },
         {
-          "denom": "ion",
+          "denom": "tia",
           "exponent": 6
         }
       ],
       "type_asset": "sdk.coin",
-      "base": "uion",
-      "name": "Ion",
-      "display": "ion",
-      "symbol": "ION",
-      "address": "tnam1p4h60d3xjtau5tj374negup4mc796uen6swxd7lc",
+      "base": "utia",
+      "name": "Tia",
+      "display": "tia",
+      "symbol": "TIA",
+      "address": "tnam1pklj3kwp0cpsdvv56584rsajty974527qsp8n0nm",
       "logo_URIs": {
-        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/desmos/images/dsm.svg"
+        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/refs/heads/master/celestia/images/celestia.svg"
       }
     },
     {
-      "description": "Test token 4",
+      "description": "Stride uAtom",
       "denom_units": [
         {
-          "denom": "uquark",
+          "denom": "stuatom",
           "exponent": 0
         },
         {
-          "denom": "quark",
+          "denom": "statom",
           "exponent": 6
         }
       ],
       "type_asset": "sdk.coin",
-      "base": "uquark",
-      "name": "Quark",
-      "display": "quark",
-      "symbol": "QRK",
-      "address": "tnam1p4cz2xup6s22dumgpd3t3gh3gts3f6mep54srxf7",
+      "base": "stuatom",
+      "name": "stAtom",
+      "display": "statom",
+      "symbol": "stATOM",
+      "address": "tnam1p5z5538v3kdk3wdx7r2hpqm4uq9926dz3ughcp7n",
       "logo_URIs": {
-        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/crescent/images/cre.svg"
+        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/refs/heads/master/stride/images/statom.svg"
       }
     },
     {
-      "description": "Test token 5",
+      "description": "Stride uOsmo",
       "denom_units": [
         {
-          "denom": "uneutron",
+          "denom": "stuosmo",
           "exponent": 0
         },
         {
-          "denom": "neutron",
+          "denom": "stosmo",
           "exponent": 6
         }
       ],
       "type_asset": "sdk.coin",
-      "base": "uneutron",
-      "name": "Neutron",
-      "display": "neutron",
-      "symbol": "NEUT",
-      "address": "tnam1phn8532zw7p39ezhsfua4w98wzaw0aqtq5rkkp8j",
+      "base": "stuosmo",
+      "name": "stOsmo",
+      "display": "stosmo",
+      "symbol": "stOSMO",
+      "address": "tnam1p4px8sw3am4qvetj7eu77gftm4fz4hcw2ulpldc7",
       "logo_URIs": {
-        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/carbon/images/swth.svg"
+        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/refs/heads/master/stride/images/stosmo.svg"
+      }
+    },
+    {
+      "description": "Stride uTia",
+      "denom_units": [
+        {
+          "denom": "stutia",
+          "exponent": 0
+        },
+        {
+          "denom": "sttia",
+          "exponent": 6
+        }
+      ],
+      "type_asset": "sdk.coin",
+      "base": "stutia",
+      "name": "stTia",
+      "display": "sttia",
+      "symbol": "stTia",
+      "address": "tnam1ph6xhf0defk65hm7l5ursscwqdj8ehrcdv300u4g",
+      "logo_URIs": {
+        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/refs/heads/master/stride/images/sttia.svg"
       }
     }
   ]
