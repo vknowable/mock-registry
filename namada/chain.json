@@ -2,11 +2,11 @@
   "$schema": "../chain.schema.json",
   "chain_name": "namada",
   "status": "live",
-  "network_type": "mainnet",
+  "network_type": "testnet",
   "website": "https://namada.net",
   "pretty_name": "Namada",
   "chain_type": "namada",
-  "chain_id": "namada.5f5de2dd1b88cba30586420",
+  "chain_id": "campfire-square.ff09671d333707",
   "slip44": 877,
   "bech32_prefix": "tnam",
   "daemon_name": "unam",
@@ -46,72 +46,8 @@
   "apis": {
     "rpc": [
       {
-        "provider": "TuDudes",
-        "address": "https://rpc.namada.tududes.com"
-      },
-      {
-        "provider": "Mandragora",
-        "address": "https://namada-rpc.mandragora.io"
-      },
-      {
-        "provider": "PowerStaking",
-        "address": "https://namadam.powerstaking.tech"
-      },
-      {
-        "provider": "stake.systems",
-        "address": "https://namada-main.stakesystems.io"
-      },
-      {
-        "provider": "5ElementsNodes",
-        "address": "https://rpc-namada.5elementsnodes.com"
-      },
-      {
-        "provider": "itrocket-team",
-        "address": "https://namada-mainnet-rpc.itrocket.net"
-      },
-      {
-        "provider": "Sproutstake",
-        "address": "https://namada-rpc.sproutstake.space"
-      },
-      {
-        "provider": "Papadritta",
-        "address": "https://rpc.papadritta.com"
-      },
-      {
-        "provider": "Decentrio",
-        "address": "https://namada.rpc.decentrio.ventures"
-      },
-      {
-        "provider": "StakePool",
-        "address": "https://rpc.namada.stakepool.dev.br"
-      },
-      {
-        "provider": "TNSO",
-        "address": "https://rpc.namadascan.io"
-      },
-      {
-        "provider": "Synergy",
-        "address": "https://namada-rpc.synergynodes.com"
-      },
-      {
-        "provider": "L0vd",
-        "address": "https://namada-mainnet.rpc.l0vd.com:443"
-      },
-      {
-        "provider": "Loser",
-        "address": "https://namada.loserboy.xyz"
-      },
-      {
-        "provider": "jacky1988",
-        "address": "https://namada.itudou.xyz"
-      },
-      {
-        "provider": "Validatus",
-        "address": "https://rpc.namada.validatus.com"
-      },
-      {
-        "provider": "anodeofzen",
-        "address": "https://namada-rpc.zenode.app"
+        "address": "https://rpc.campfire.tududes.com",
+        "provider": "Tududes"
       }
     ]
   },

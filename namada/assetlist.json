@@ -19,7 +19,7 @@
       "name": "Namada",
       "display": "nam",
       "symbol": "NAM",
-      "address": "tnam1q9gr66cvu4hrzm0sd5kmlnjje82gs3xlfg3v6nu7",
+      "address": "tnam1qy440ynh9fwrx8aewjvvmu38zxqgukgc259fzp6h",
       "logo_URIs": {
         "svg": "https://raw.githubusercontent.com/anoma/namada-chain-registry/main/namada/images/namada.svg"
       },
@@ -42,14 +42,14 @@
       "name": "Atom",
       "display": "atom",
       "symbol": "ATOM",
-      "address": "tnam1pkg30gnt4q0zn7j00r6hms4ajrxn6f5ysyyl7w9m",
+      "address": "tnam1p527n3w0t95sspfemvu4lf7eczrgyefp0ce8wqkr",
       "logo_URIs": {
         "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.svg"
       },
       "coingecko_id": "cosmos"
     },
     {
-      "description": "Osmosis (Osmo)",
+      "description": "Osmosis (Osmo) Channel-0",
       "denom_units": [
         {
           "denom": "uosmo",
@@ -64,15 +64,61 @@
       "base": "uosmo",
       "name": "Osmo",
       "display": "osmo",
-      "symbol": "OSMO",
-      "address": "tnam1p5z8ruwyu7ha8urhq2l0dhpk2f5dv3ts7uyf2n75",
+      "symbol": "OSMO-0",
+      "address": "tnam1phks0geerggjk96ezhxclt6r5tdgu3usa5zteyyc",
       "logo_URIs": {
         "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/refs/heads/master/osmosis/images/osmo.svg"
       },
       "coingecko_id": "osmosis"
     },
     {
-      "description": "Celestia (Tia)",
+      "description": "Osmosis (Osmo) Channel-5",
+      "denom_units": [
+        {
+          "denom": "uosmo",
+          "exponent": 0
+        },
+        {
+          "denom": "osmo",
+          "exponent": 6
+        }
+      ],
+      "type_asset": "sdk.coin",
+      "base": "uosmo",
+      "name": "Osmo",
+      "display": "osmo",
+      "symbol": "OSMO-5",
+      "address": "tnam1phfyk3tyhn2360gzmxv8myjhr6k9j9t8dg6sq4ut",
+      "logo_URIs": {
+        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/refs/heads/master/osmosis/images/osmo.svg"
+      },
+      "coingecko_id": "osmosis"
+    },
+    {
+      "description": "Osmosis (Osmo) Channel-13",
+      "denom_units": [
+        {
+          "denom": "uosmo",
+          "exponent": 0
+        },
+        {
+          "denom": "osmo",
+          "exponent": 6
+        }
+      ],
+      "type_asset": "sdk.coin",
+      "base": "uosmo",
+      "name": "Osmo",
+      "display": "osmo",
+      "symbol": "OSMO-13",
+      "address": "tnam1pkwymnfpkjprr59u9tpard62ser5dvm7ggfs7gxh",
+      "logo_URIs": {
+        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/refs/heads/master/osmosis/images/osmo.svg"
+      },
+      "coingecko_id": "osmosis"
+    },
+    {
+      "description": "Celestia (Tia) Channel-9",
       "denom_units": [
         {
           "denom": "utia",
@@ -87,8 +133,31 @@
       "base": "utia",
       "name": "Tia",
       "display": "tia",
-      "symbol": "TIA",
-      "address": "tnam1pklj3kwp0cpsdvv56584rsajty974527qsp8n0nm",
+      "symbol": "TIA-9",
+      "address": "tnam1p53kj7s23ed8dphdrjdn59zfhsmfgjngaqxmn5lp",
+      "logo_URIs": {
+        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/refs/heads/master/celestia/images/celestia.svg"
+      },
+      "coingecko_id": "celestia"
+    },
+    {
+      "description": "Celestia (Tia) Channel-10",
+      "denom_units": [
+        {
+          "denom": "utia",
+          "exponent": 0
+        },
+        {
+          "denom": "tia",
+          "exponent": 6
+        }
+      ],
+      "type_asset": "sdk.coin",
+      "base": "utia",
+      "name": "Tia",
+      "display": "tia",
+      "symbol": "TIA-10",
+      "address": "tnam1phdf4sns3dx653kjfeejgymnehxg2z7xgs4z956n",
       "logo_URIs": {
         "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/refs/heads/master/celestia/images/celestia.svg"
       },
@@ -111,7 +180,7 @@
       "name": "stAtom",
       "display": "statom",
       "symbol": "stATOM",
-      "address": "tnam1p5z5538v3kdk3wdx7r2hpqm4uq9926dz3ughcp7n",
+      "address": "tnam1pkx2yzpuekqcwfnrwuk9jty803q9fu0y25nfr6uk",
       "logo_URIs": {
         "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/refs/heads/master/stride/images/statom.svg"
       },
@@ -134,7 +203,7 @@
       "name": "stOsmo",
       "display": "stosmo",
       "symbol": "stOSMO",
-      "address": "tnam1p4px8sw3am4qvetj7eu77gftm4fz4hcw2ulpldc7",
+      "address": "tnam1phx0vmguczqajy9nlftaer3kspchy03m2cj8gykt",
       "logo_URIs": {
         "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/refs/heads/master/stride/images/stosmo.svg"
       },
@@ -154,14 +223,37 @@
       ],
       "type_asset": "sdk.coin",
       "base": "stutia",
-      "name": "stTIA",
+      "name": "stTia",
       "display": "sttia",
-      "symbol": "stTia",
-      "address": "tnam1ph6xhf0defk65hm7l5ursscwqdj8ehrcdv300u4g",
+      "symbol": "stTIA",
+      "address": "tnam1ph7nw39z2v7cxewd6m2cczgqpky7pmldnqllkpt4",
       "logo_URIs": {
         "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/refs/heads/master/stride/images/sttia.svg"
       },
       "coingecko_id": "stride-staked-tia"
+    },
+    {
+      "description": "Stride Native",
+      "denom_units": [
+        {
+          "denom": "ustrd",
+          "exponent": 0
+        },
+        {
+          "denom": "strd",
+          "exponent": 6
+        }
+      ],
+      "type_asset": "sdk.coin",
+      "base": "ustrd",
+      "name": "Strd",
+      "display": "strd",
+      "symbol": "STRD",
+      "address": "tnam1phzehgkukd7vwf4nffkjq0h022cx6arha59z0meq",
+      "logo_URIs": {
+        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/refs/heads/master/stride/images/strd.svg"
+      },
+      "coingecko_id": "stride"
     }
   ]
 }
