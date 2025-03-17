@@ -156,7 +156,7 @@
       "base": "stutia",
       "name": "stTIA",
       "display": "sttia",
-      "symbol": "stTia",
+      "symbol": "stTIA",
       "address": "tnam1ph6xhf0defk65hm7l5ursscwqdj8ehrcdv300u4g",
       "logo_URIs": {
         "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/refs/heads/master/stride/images/sttia.svg"
