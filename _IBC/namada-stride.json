@@ -1,23 +1,23 @@
 {
   "$schema": "../ibc_data.schema.json",
   "chain_1": {
-    "chain_name": "namada",
-    "client_id": "07-tendermint-1",
-    "connection_id": "connection-0"
+    "chain_name": "namadahousefire",
+    "client_id": "07-tendermint-16",
+    "connection_id": "connection-9"
   },
   "chain_2": {
     "chain_name": "stride",
-    "client_id": "07-tendermint-154",
-    "connection_id": "connection-157"
+    "client_id": "07-tendermint-152",
+    "connection_id": "connection-155"
   },
   "channels": [
     {
       "chain_1": {
-        "channel_id": "channel-0",
+        "channel_id": "channel-8",
         "port_id": "transfer"
       },
       "chain_2": {
-        "channel_id": "channel-308",
+        "channel_id": "channel-306",
         "port_id": "transfer"
       },
       "ordering": "unordered",
