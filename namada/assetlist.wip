@@ -210,29 +210,6 @@
       "coingecko_id": "usd-coin"
     },
     {
-      "description": "Noble (USDN)",
-      "denom_units": [
-        {
-          "denom": "uusdn",
-          "exponent": 0
-        },
-        {
-          "denom": "usdn",
-          "exponent": 6
-        }
-      ],
-      "type_asset": "sdk.coin",
-      "base": "uusdn",
-      "name": "USDN",
-      "display": "usdn",
-      "symbol": "USDN",
-      "address": "tnam1phl5mjmejq20geyzxrp4d63uecacclfj3crmrdat",
-      "logo_URIs": {
-        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/refs/heads/master/noble/images/USDN.svg"
-      },
-      "coingecko_id": "noble-dollar-usdn"
-    },
-    {
       "description": "Nym (Nym)",
       "denom_units": [
         {
