@@ -222,7 +222,7 @@
         }
       ],
       "type_asset": "sdk.coin",
-      "base": "uynm",
+      "base": "unym",
       "name": "Nym",
       "display": "nym",
       "symbol": "NYM",
