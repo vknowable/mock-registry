@@ -23,7 +23,7 @@
       "logo_URIs": {
         "svg": "https://raw.githubusercontent.com/anoma/namada-chain-registry/main/namada/images/namada.svg"
       },
-      "coingecko_id": ""
+      "coingecko_id": "namada"
     },
     {
       "description": "Cosmos Hub (Atom)",
