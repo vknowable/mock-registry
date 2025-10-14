@@ -205,7 +205,7 @@
       "symbol": "USDC",
       "address": "tnam1pkl64du8p2d240my5umxm24qhrjsvh42ruc98f97",
       "logo_URIs": {
-        "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/refs/heads/master/noble/images/USDCoin.svg"
+        "svg": "https://raw.githubusercontent.com/tududes/chain-registry/refs/heads/validation/version-patterns/noble/images/USDCoin.svg"
       },
       "coingecko_id": "usd-coin"
     },
